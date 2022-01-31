@@ -1,0 +1,5 @@
+/input_bak/*.csv
+/logs/*
+/misc/
+/recordings/*
+/test/
